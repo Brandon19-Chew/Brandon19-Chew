@@ -18,8 +18,8 @@ Over the last 2 to 4 years, I have built a diverse portfolio across multiple dom
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandon19-Chew&show_icons=true&theme=radical&count_private=true" alt="Brandon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon-Chew&show_icons=true&theme=radical&count_private=true" alt="Brandon's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Chew&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
