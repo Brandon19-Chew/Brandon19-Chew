@@ -17,10 +17,9 @@ Over the last 2 to 4 years, I have built a diverse portfolio across multiple dom
 * **Impact**: Contributed to over **20 repositories** and over **50 commits**.
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandon19-Chew&show_icons=true&theme=radical&count_private=true" alt="Brandon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Commits](https://img.shields.io/badge/Commits-2.9k+-brightgreen?style=for-the-badge&logo=github)
+![Languages](https://img.shields.io/badge/Languages-34-blue?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositories-76-orange?style=for-the-badge)
 ---
 
 ### 🛠️ Tech Stack
