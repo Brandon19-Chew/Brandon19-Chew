@@ -42,15 +42,9 @@ This graph represents my coding activity and growth over the recent years.
 
 ---
 
-### 🏸 Personal Interests
-Beyond coding, I am a balanced individual with a variety of hobbies:
-* **Sports**: Frequent **Pickleball** player.
-* **Culture**: Deep interest in **Japanese language, music, and anime**.
-* **Gaming**: Enjoying strategic games like **Clash Royale** and **Wordle**.
-
----
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Brandon-Chew-Zi-Chern/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Brandon19-Chew/count.svg" alt="Brandon's Visitor Count" />
 </p>
+
