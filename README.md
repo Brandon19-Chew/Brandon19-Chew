@@ -38,7 +38,7 @@ I have explored and mastered **34 programming languages** to build versatile R&D
 ### 🐍 Contribution Journey
 This graph represents my coding activity and growth over the recent years.
 
-![Snake Animation](https://github.com/Brandon-Chew/Brandon-Chew/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Brandon19-Chew/Brandon-Chew/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
