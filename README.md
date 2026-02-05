@@ -21,7 +21,6 @@ Over the last 2 to 4 years, I have built a diverse portfolio across multiple dom
   <img src="https://github-readme-stats.vercel.app/api?username=Brandon19-Chew&show_icons=true&theme=radical&count_private=true" alt="Brandon's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🛠️ Tech Stack
