@@ -32,6 +32,15 @@ I have explored 15 programming languages** to build versatile R&D solutions:
 </p>
 
 ---
+### 🐦 Media Platform 
+
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=instagram,github,discord"/>
+ </a>
+</p>
+   
+--- 
 
 ### 🐍 Contribution Journey
 This graph represents my coding activity and growth over the recent years.
