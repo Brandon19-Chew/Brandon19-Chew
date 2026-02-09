@@ -18,7 +18,7 @@ Over the last 2 to 3 years, I have built a diverse portfolio across multiple dom
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
 ![Commits](https://img.shields.io/badge/Commits-50+-brightgreen?style=for-the-badge&logo=github)
-![Languages](https://img.shields.io/badge/Languages-20+-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-17-blue?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Repositories-20+-orange?style=for-the-badge)
 ---
 
