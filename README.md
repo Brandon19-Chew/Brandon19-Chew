@@ -33,6 +33,18 @@ I have explored 17 programming languages** to build versatile R&D solutions:
 
 ---
 
+### Database
+
+I have explored 2 databases to store the data records : 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+---
+
 ### 🐦 Media Platform 
 
 <p align="center">
