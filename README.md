@@ -27,19 +27,20 @@ I have explored 15 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,go,py,cpp,vue,js,html,css,php,docker,git,linux,aws,ruby" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,linux,aws,ruby,blender,r" />
   </a>
 </p>
 
 ---
+
 ### 🐦 Media Platform 
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=instagram,github,discord"/>
+  <img src="https://skillicons.dev/icons?i=instagram,github,gmail,discord"/>
  </a>
 </p>
-   
+
 --- 
 
 ### 🐍 Contribution Journey
