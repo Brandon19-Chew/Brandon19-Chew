@@ -23,7 +23,7 @@ Over the last 2 to 3 years, I have built a diverse portfolio across multiple dom
 ---
 
 ### 🛠️ Tech Stack
-I have explored 15 programming languages** to build versatile R&D solutions:
+I have explored 17 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
