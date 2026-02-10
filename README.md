@@ -23,11 +23,11 @@ Over the last 2 to 3 years, I have built a diverse portfolio across multiple dom
 ---
 
 ### 🛠️ Tech Stack
-I have explored 17 programming languages** to build versatile R&D solutions:
+I have explored 16 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,linux,aws,ruby,blender,r" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,aws,ruby,blender,r" />
   </a>
 </p>
 
@@ -40,6 +40,18 @@ I have explored 2 databases to store the data records :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+---
+
+### 🖥️ Operating System
+
+I have explored 2 databases to store the data records : 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
   </a>
 </p>
 
