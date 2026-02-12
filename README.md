@@ -18,16 +18,16 @@ Over the last 2 to 3 years, I have built a diverse portfolio across multiple dom
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
 ![Commits](https://img.shields.io/badge/Commits-50+-brightgreen?style=for-the-badge&logo=github)
-![Languages](https://img.shields.io/badge/Languages-16-blue?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repositories-20+-orange?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-17-blue?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositories-10+-orange?style=for-the-badge)
 ---
 
 ### 🛠️ Tech Stack
-I have explored 16 programming languages** to build versatile R&D solutions:
+I have explored 17 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,aws,ruby,blender,r" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,aws,ruby,blender,r,tailwindcss" />
   </a>
 </p>
 
@@ -54,6 +54,17 @@ I have explored 2 operating system to store the data records :
     <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
   </a>
 </p>
+
+---
+
+### 👨‍💻 Programming Platform
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit" />
+  </a>
+</p>
+
 
 ---
 
