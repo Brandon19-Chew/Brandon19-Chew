@@ -59,6 +59,8 @@ I have explored 2 operating system to store the data records :
 
 ### 👨‍💻 Programming Platform
 
+Currently in use below !
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit" />
@@ -69,6 +71,8 @@ I have explored 2 operating system to store the data records :
 ---
 
 ### 🐦 Media Platform 
+
+Contact me if wanna ask questions !
 
 <p align="center">
  <a href="https://skillicons.dev">
