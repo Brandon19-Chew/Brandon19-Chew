@@ -12,8 +12,8 @@ Hi there 👋! I am Brandon Chew, focusing on developing many software tools for
 ---
 
 ### 📊 GitHub Metrics
-Over the last 2 to 3 years, I have built a diverse portfolio across multiple domains:
-* **Total Experience**: 3 years of active development on GitHub.
+Over the last 1 to 2 years, I have built a diverse portfolio across multiple domains:
+* **Total Experience**: 2 years of active development on GitHub.
 * **Impact**: Contributed to over **20 repositories** and over **50 commits**.
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
