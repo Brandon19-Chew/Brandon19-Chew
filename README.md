@@ -1,5 +1,3 @@
-![80588-acheron-banner](https://github.com/user-attachments/assets/5de69844-aa28-4754-86a0-aa6d377844a7)
-
 # Brandon Chew
 
 
