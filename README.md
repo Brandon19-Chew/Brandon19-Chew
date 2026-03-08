@@ -95,3 +95,11 @@ This graph represents my coding activity and growth over the recent years.
 <p align="center">
   <img src="https://count.getloli.com/get/@Brandon19-Chew?theme=moebooru" alt="Visitor Count" />
 </p>
+
+---
+
+### GIT CITY 
+
+Current rank  is # 300012
+
+https://www.thegitcity.com/?user=brandon19-chew
