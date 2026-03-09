@@ -1,6 +1,3 @@
-# Brandon Chew
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7E018&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B!+I+am+Brandon+Chew;I+focused+on+R%26D+software+tools;Turning+ideas+into+code+whenever+inspiration+strikes.)" />
 </p>
