@@ -97,6 +97,6 @@ This graph represents my coding activity and growth over the recent years.
 
 ### GIT CITY 
 
-Current rank  is # 300012
+Current rank  is # 340912
 
 https://www.thegitcity.com/?user=brandon19-chew
