@@ -8,7 +8,15 @@ Hi there 👋! I am Brandon Chew, focusing on developing many software tools for
 你好！我是 Brandon Chew。我专注于为研究与开发 (R&D) 打造多种软件工具。每当脑海中浮现灵感时，我便会付诸行动。
 
 ---
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api?username=Brandon19-Chew&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+	</a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=gruvbox" alt="Top Langs"/>
+	</a>
+  
+---
 ### 📊 GitHub Metrics
 Over the last 1 to 2 years, I have built a diverse portfolio across multiple domains:
 * **Total Experience**: 2 years of active development on GitHub.
@@ -25,46 +33,9 @@ I have explored 19 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,aws,ruby,blender,r,tailwindcss,ts,react" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,net,tensorflow,py,js,html,css,php,git,aws,ruby,blender,r,tailwindcss,ts,react,mysql,postgres,linux,ubuntu,vscode,visualstudio,replit" />
   </a>
 </p>
-
----
-
-### 💾 Database
-
-I have explored 2 databases to store the data records : 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
-
----
-
-### 🖥️ Operating System
-
-I have explored 2 operating system to store the data records : 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 Programming Platform
-
-Currently in use below !
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit" />
-  </a>
-</p>
-
 
 ---
 
