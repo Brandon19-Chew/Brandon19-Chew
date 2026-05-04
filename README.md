@@ -8,6 +8,9 @@ Hi there 👋! I am Brandon Chew, focusing on developing many software tools for
 你好！我是 Brandon Chew。我专注于为研究与开发 (R&D) 打造多种软件工具。每当脑海中浮现灵感时，我便会付诸行动。
 
 ---
+
+### 📊 GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=Brandon19-Chew&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
 	</a>
