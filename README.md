@@ -18,7 +18,7 @@ Hi there 👋! I am Brandon Chew, focusing on developing many software tools for
 <a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=gruvbox" alt="Top Langs"/>
 	</a>
-  
+	
 ---
 ### 📊 GitHub Metrics
 Over the last 1 to 2 years, I have built a diverse portfolio across multiple domains:
